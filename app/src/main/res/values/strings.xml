@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Brants First App</string>
+    <string name="hello_text">0</string>
+    <string name="button_one">Alert</string>
+    <string name="button_two">+ +</string>
+    <string name="button_three">- -</string>
+    <string name="button_four">Random</string>
+    <string name="random_heading">Here is a random number between 0 and %1d.</string>
+    <string name="random_number_value">0</string>
+    <string name="backbutton_label">Back</string>
+</resources>
